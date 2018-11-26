@@ -49,18 +49,4 @@
 		echo "</html>";
 		
 	}
-	/*function store_visited_pages($pagename) {
-		$cookie_name = "VISITED_PAGES";
-		if(!isset($_COOKIE[$cookie_name])) {
-			$value = $pagename;
-		}
-		else {
-			$value = $_COOKIE[$cookie_name];
-			$value = $value.",".$pagename;
-		}
-		print_r($value."<br>");
-
-		// Setting the cookie
-		setcookie($cookie_name, $value, time() + (86400 * 30));
-	}*/
 ?>

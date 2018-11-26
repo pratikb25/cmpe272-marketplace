@@ -28,9 +28,6 @@ while($row = mysqli_fetch_array($result)) {
 
 if($count > 0) {
 	print(json_encode($products));
-} 
-else {
-	print("No products Found");
 }
 
 // Close MySQL connection

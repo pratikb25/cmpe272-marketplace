@@ -7,7 +7,7 @@ It is an online market place which combines the services and products from diffe
 to users to buy products/services from any of the component websites. The MarktPlatz allows user to browse and shop products from following
 four websites:
 
-Homeaway Housing Website (http://pratikbhandarkar.com/nestaway/) <br />
+Nestaway Housing Website (http://pratikbhandarkar.com/nestaway/) <br />
 The Game store (https://www.vedantbhoj.com/) <br />
 The Bike  (https://nikhilnlimaye.com/) <br />
 Word - the book store (http://ketanrudrurkar.com/) <br />
